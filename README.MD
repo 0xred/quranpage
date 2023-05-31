@@ -1,7 +1,7 @@
 HOW TO USE ? <br />=========================<br /><br />
 import quranapi <br />
 namesurah,numberayah,urlimage = "الرحمن","2", "none"<br />
-image = tt.pagequran(namesurah,numberayah,urlimage)<br />
+image = quranapi.pagequran(namesurah,numberayah,urlimage)<br />
 <br />
 print(image)<br /><br /><br />
 
